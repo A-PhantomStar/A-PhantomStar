@@ -1,6 +1,6 @@
 - Hi! :D, I’m @A-PhantomStar
 - I’m interested in Making cool Videogames one day ^^
-- I’m currently learning C# C:
+- I’m currently learning C++ and Python C:
 
 
 <!---
