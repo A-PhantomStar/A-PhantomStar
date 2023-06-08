@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Andres Rodriguez.</h1>
+<h1 align="center">Hi! I'm Andres Rodriguez</h1>
 <h3 align="center">A passionate programmer that wants to learn how to make videogames! :D</h3>
 
 - 🔭 I’m currently working on [my C++ and python repositories](https://github.com/A-PhantomStar/NewC-Stuff https://github.com/A-PhantomStar/Python-Stuff)
