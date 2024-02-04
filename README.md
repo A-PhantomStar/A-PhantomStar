@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my C++ and python repositories](https://github.com/A-PhantomStar/NewC-Stuff https://github.com/A-PhantomStar/Python-Stuff)
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **Web development & Python**
 
 - ⚡ Fun fact **I think I'm funny**
 
