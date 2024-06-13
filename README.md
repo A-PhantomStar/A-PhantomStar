@@ -1,11 +1,9 @@
 <h1 align="center">Hi! I'm Andres Rodriguez</h1>
-<h3 align="center">A passionate programmer that wants to learn how to make videogames! :D</h3>
+<h3 align="center">A passionate programmer that wants to become a Full-Stack Web Developer and learn Machine Learning.:D</h3>
 
-- 🔭 I’m currently working on [my C++ and python repositories](https://github.com/A-PhantomStar/NewC-Stuff https://github.com/A-PhantomStar/Python-Stuff)
+- 🔭 I’m currently corretly organizing my repositories
 
-- 🌱 I’m currently learning **Web development & Python**
-
-- ⚡ Fun fact **I think I'm funny**
+- 🌱 I’m currently learning **CSS, JavaScript & Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
