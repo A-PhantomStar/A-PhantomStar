@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently corretly organizing my repositories
 
-- 🌱 I’m currently learning **CSS, JavaScript & Python**
+- 🌱 I’m currently learning **C# and Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
